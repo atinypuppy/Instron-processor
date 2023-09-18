@@ -1,1 +1,9 @@
-
+streamlit
+pandas
+glob
+numpy
+scipy
+math
+re
+tkinter
+calc
