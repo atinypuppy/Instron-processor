@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import glob
 import numpy as np
-import scipy
+#import scipy
 import math
 import re
 import tkinter as tk
